@@ -28,10 +28,10 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### API
+## API
 
 [Used API](https://github.com/novelcovid/api)
 
-### TODO LIST
+## TODO LIST
 
 [ ] Country search
