@@ -22,6 +22,10 @@
         title="Visit my blog"
         >Visit my blog</a
       >
+
+      <v-btn link href="https://discord.gg/7SsfGdX" dark>
+        <v-icon dark left>fab fa-discord</v-icon> Join
+      </v-btn>
     </v-app-bar>
 
     <v-content>
@@ -53,5 +57,6 @@ export default {
   padding: 5px 10px;
   border-radius: 3px;
   text-decoration: none;
+  margin-right: 10px;
 }
 </style>
