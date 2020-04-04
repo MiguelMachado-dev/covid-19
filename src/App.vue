@@ -20,7 +20,7 @@
         target="_blank"
         rel="noopener noreferrer"
         title="Visit my blog"
-        >My blog</a
+        >Visit my blog</a
       >
     </v-app-bar>
 
