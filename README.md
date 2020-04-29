@@ -1,4 +1,14 @@
-# covid
+# Covi-19 Tracker
+
+[Click here to visit the website](https://covid.miguelmachado.dev?utm_source=GithubRepo).
+
+## Powered by Vercel
+
+<p align="left">
+  <a aria-label="Vercel logo" href="https://vercel.com/?utm_source=miguelmachado">
+    <img src="./powered-by-vercel.svg">
+  </a>
+</p>
 
 ## Project setup
 
